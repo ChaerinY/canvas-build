@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/canvas-build/static/css/main.55f7cdf6.css",
+    "main.js": "/canvas-build/static/js/main.5ef701b2.js",
+    "static/js/787.9a44bb08.chunk.js": "/canvas-build/static/js/787.9a44bb08.chunk.js",
+    "index.html": "/canvas-build/index.html",
+    "main.55f7cdf6.css.map": "/canvas-build/static/css/main.55f7cdf6.css.map",
+    "main.5ef701b2.js.map": "/canvas-build/static/js/main.5ef701b2.js.map",
+    "787.9a44bb08.chunk.js.map": "/canvas-build/static/js/787.9a44bb08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f7cdf6.css",
+    "static/js/main.5ef701b2.js"
+  ]
+}
