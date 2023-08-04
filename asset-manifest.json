@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/canvas-build/static/css/main.c2460506.css",
-    "main.js": "/canvas-build/static/js/main.6231b81a.js",
+    "main.css": "/canvas-build/static/css/main.6d1b9575.css",
+    "main.js": "/canvas-build/static/js/main.ceacea7f.js",
     "static/js/787.9a44bb08.chunk.js": "/canvas-build/static/js/787.9a44bb08.chunk.js",
     "static/media/bucket-cursor.cur": "/canvas-build/static/media/bucket-cursor.96a889867781f90333aa.cur",
     "static/media/eraser-cursor.cur": "/canvas-build/static/media/eraser-cursor.dfd370fd6b20b4850dc3.cur",
     "static/media/pencil-cursor.cur": "/canvas-build/static/media/pencil-cursor.73826bd0aa18e5e749b6.cur",
     "index.html": "/canvas-build/index.html",
-    "main.c2460506.css.map": "/canvas-build/static/css/main.c2460506.css.map",
-    "main.6231b81a.js.map": "/canvas-build/static/js/main.6231b81a.js.map",
+    "main.6d1b9575.css.map": "/canvas-build/static/css/main.6d1b9575.css.map",
+    "main.ceacea7f.js.map": "/canvas-build/static/js/main.ceacea7f.js.map",
     "787.9a44bb08.chunk.js.map": "/canvas-build/static/js/787.9a44bb08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2460506.css",
-    "static/js/main.6231b81a.js"
+    "static/css/main.6d1b9575.css",
+    "static/js/main.ceacea7f.js"
   ]
 }
